@@ -1,2 +1,3 @@
 # Diabetes-Prediction-System
 The data set consists of 9 attributes: number of times pregnant, plasma glucose concentration, diastolic blood pressure, triceps skin folds thickness, serum insulin, body mass index, pedigree type, age,and class.
+![Screenshot (20)](https://user-images.githubusercontent.com/57061965/99416845-48616700-291f-11eb-8abf-f60a77ea97a1.png)
