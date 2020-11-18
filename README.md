@@ -7,4 +7,7 @@ The data set consists of 9 attributes: number of times pregnant, plasma glucose 
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/57061965/99417363-d8071580-291f-11eb-9ede-fbfb7fe67ceb.png)
 
+![project](https://user-images.githubusercontent.com/57061965/99494995-f577c600-2997-11eb-8323-c4b036b38e1f.gif)
+
+
 
